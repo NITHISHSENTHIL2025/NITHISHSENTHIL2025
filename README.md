@@ -54,3 +54,15 @@ Building one project at a time.
 ## 📫 Contact
 
 - 📧 nithishsenthil2025@gmail.com
+
+- ---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NITHISHSENTHIL2025/NITHISHSENTHIL2025/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NITHISHSENTHIL2025/NITHISHSENTHIL2025/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/NITHISHSENTHIL2025/NITHISHSENTHIL2025/output/github-snake-dark.svg">
+  </picture>
+</p>
