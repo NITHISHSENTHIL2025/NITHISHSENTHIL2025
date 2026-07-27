@@ -1,28 +1,28 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NITHISHSENTHIL2025/NITHISHSENTHIL2025/main/dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NITHISHSENTHIL2025/NITHISHSENTHIL2025/main/light.svg">
-    <img alt="Nithish S" src="https://raw.githubusercontent.com/NITHISHSENTHIL2025/NITHISHSENTHIL2025/main/light.svg">
-  </picture>
-</div>
+<!-- Main Animated Header -->
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="light_animated.svg">
+  <img alt="Vignesh's Animated GitHub Profile" src="dark_animated.svg" width="100%">
+</picture>
 
-<div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=NITHISHSENTHIL2025&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
-  <br/>
-  <img width="49%" src="https://YOUR-INSTANCE.vercel.app/api?username=NITHISHSENTHIL2025&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
-  <img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=NITHISHSENTHIL2025&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
-</div>
+<br clear="both"/>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NITHISHSENTHIL2025/NITHISHSENTHIL2025/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NITHISHSENTHIL2025/NITHISHSENTHIL2025/output/github-snake.svg" />
-    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/NITHISHSENTHIL2025/NITHISHSENTHIL2025/output/github-snake.svg" />
-  </picture>
-</div>
+### 🚀 About Me
+<p>Aspiring Full Stack Developer studying B.Tech CSE at KLH Bachupally, Hyderabad. Passionate about building real-world applications, learning every day, and strengthening problem-solving skills through Data Structures & Algorithms.</p>
 
-<div align="center">
-  <a href="mailto:nithishsenthil2025@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=108981&labelColor=0A101F" alt="Email" />
-  </a>
-</div>
+---
+
+### 📊 GitHub Stats
+<!-- Replace YOUR-VERCEL-URL with the actual URL Vercel gave you after deployment -->
+<p align="center">
+  <img src="https://YOUR-VERCEL-URL/api?username=NITHISHSENTHIL2025&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" />
+  <img src="https://YOUR-VERCEL-URL/api/top-langs/?username=NITHISHSENTHIL2025&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NITHISHSENTHIL2025/NITHISHSENTHIL2025/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NITHISHSENTHIL2025/NITHISHSENTHIL2025/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NITHISHSENTHIL2025/NITHISHSENTHIL2025/output/github-contribution-grid-snake.svg">
+</picture>
