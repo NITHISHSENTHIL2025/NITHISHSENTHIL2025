@@ -4,7 +4,9 @@
 
 ### 🚀 Aspiring Full Stack Developer
 
-Building one project at a time.
+> Building products. Learning every day.
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=FF3C3C&center=true&vCenter=true&width=500&lines=Java;JavaScript;Python;React;Building+iSevens"/>
 
 </div>
 
