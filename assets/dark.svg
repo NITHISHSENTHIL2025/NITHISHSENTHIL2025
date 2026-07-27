@@ -1,1 +1,50 @@
+<svg
+xmlns="http://www.w3.org/2000/svg"
+width="1280"
+height="640"
+viewBox="0 0 1280 640"
+fill="none">
 
+<defs>
+
+<!-- Background -->
+<linearGradient id="bg" x1="0" y1="0" x2="1280" y2="640">
+<stop offset="0%" stop-color="#090909"/>
+<stop offset="100%" stop-color="#10131A"/>
+</linearGradient>
+
+<!-- Neon -->
+<linearGradient id="red">
+<stop offset="0%" stop-color="#ff2d2d"/>
+<stop offset="100%" stop-color="#ff5a5a"/>
+</linearGradient>
+
+<!-- Glow -->
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+<feGaussianBlur stdDeviation="10" result="blur"/>
+<feMerge>
+<feMergeNode in="blur"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+
+<!-- Shadow -->
+<filter id="shadow">
+<feDropShadow
+dx="0"
+dy="0"
+stdDeviation="18"
+flood-color="#ff2d2d"
+flood-opacity="0.25"/>
+</filter>
+
+</defs>
+
+<!-- Background -->
+
+<rect
+width="1280"
+height="640"
+fill="url(#bg)"/>
+
+</svg>
