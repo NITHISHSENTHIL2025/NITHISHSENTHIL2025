@@ -1,16 +1,56 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**NITHISHSENTHIL2025/NITHISHSENTHIL2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Nithish S
 
-Here are some ideas to get you started:
+### 🚀 Aspiring Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building one project at a time.
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech CSE Student
+- 💻 Learning Java, JavaScript, Python & React
+- 🚀 Currently building real-world projects
+- 🌱 Always learning something new
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,python,react,git,github,vscode&theme=dark"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NITHISHSENTHIL2025&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITHISHSENTHIL2025&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=NITHISHSENTHIL2025&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+## 📫 Contact
+
+- 📧 nithishsenthil2025@gmail.com
