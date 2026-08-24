@@ -19,15 +19,15 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/NITHISHSENTHIL2025/NITHISHSENTHIL2025/output/github-contribution-grid-snake-dark.svg?v=1">
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://github.com/NITHISHSENTHIL2025/NITHISHSENTHIL2025/raw/output/github-contribution-grid-snake-dark.svg">
 
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/NITHISHSENTHIL2025/NITHISHSENTHIL2025/output/github-contribution-grid-snake.svg?v=1">
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://github.com/NITHISHSENTHIL2025/NITHISHSENTHIL2025/raw/output/github-contribution-grid-snake.svg">
 
-  <img width="100%"
-       alt="Contribution Activity"
-       src="https://raw.githubusercontent.com/NITHISHSENTHIL2025/NITHISHSENTHIL2025/output/github-contribution-grid-snake-dark.svg?v=1">
+  <img width="100%" 
+       alt="Contribution Activity" 
+       src="https://github.com/NITHISHSENTHIL2025/NITHISHSENTHIL2025/raw/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
